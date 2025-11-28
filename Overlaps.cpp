@@ -1,3 +1,8 @@
+// SPDX-License-Identifier: MIT
+// This file contains modifications to upstream hifiasm overlap/graph emission.
+// Upstream hifiasm (MIT). Original authors: Haoyu Cheng, Heng Li, et al.
+// See LICENSE in the project root for the full license text.
+
 #include <stdio.h>
 #include <stdlib.h>
 #define __STDC_LIMIT_MACROS

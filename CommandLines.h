@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: MIT
+// Adapted from hifiasm (MIT-licensed). Original authors: Haoyu Cheng, Heng Li, et al.
+// See LICENSE in the project root for the full license text.
+
 #ifndef __COMMAND_LINE_PARSER__
 #define __COMMAND_LINE_PARSER__
 

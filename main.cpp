@@ -1,3 +1,8 @@
+// SPDX-License-Identifier: MIT
+// This project is adapted from hifiasm (MIT-licensed).
+// Original hifiasm authors: Haoyu Cheng, Heng Li, et al.
+// See LICENSE in the project root for the full license text.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "CommandLines.h"

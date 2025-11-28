@@ -1,3 +1,8 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2024 hifiasm-raw-gfa authors
+# Adapted from hifiasm (MIT-licensed). Original authors: Haoyu Cheng, Heng Li, et al.
+# See LICENSE in the project root for the full license text.
+
 CXX=		g++
 CC=			gcc
 CXXFLAGS=	-g -O3 -msse4.2 -mpopcnt -fomit-frame-pointer -Wall

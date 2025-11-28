@@ -1,3 +1,8 @@
+// SPDX-License-Identifier: MIT
+// This header relates to overlap structures adapted from hifiasm (MIT).
+// Original hifiasm authors: Haoyu Cheng, Heng Li, et al.
+// See LICENSE in the project root for the full license text.
+
 #ifndef __OVERLAPS__
 #define __OVERLAPS__
 

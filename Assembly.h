@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: MIT
+// Adapted from hifiasm (MIT-licensed). Original authors: Haoyu Cheng, Heng Li, et al.
+// See LICENSE in the project root for the full license text.
+
 #ifndef __ASSEMBLY__
 #define __ASSEMBLY__
 #include "CommandLines.h"

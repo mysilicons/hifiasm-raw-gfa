@@ -83,6 +83,13 @@ Note: The program is designed to exit right after generating the Raw Unitig Grap
 Use the following minimal steps to generate a raw unitig graph from HiFi reads (FASTQ or FASTA). Replace placeholders with your own paths.
 
 ```bash
+# 0) Get the code
+# (HTTPS)
+git clone https://github.com/mysilicons/hifiasm-raw-gfa.git
+cd hifiasm-raw-gfa
+# (or SSH)
+# git clone git@github.com:mysilicons/hifiasm-raw-gfa.git && cd hifiasm-raw-gfa
+
 # 1) Build
 make
 
@@ -166,7 +173,7 @@ Notes:
 This project is adapted from [hifiasm](https://github.com/chhylp123/hifiasm).
 
 * **Original authors**: Haoyu Cheng, Heng Li, et al.
-* **License**: MIT License (following the upstream project).
+* **License**: MIT License (following the upstream project). See the root [`LICENSE`](LICENSE) file for the full text.
 
 Please cite the original hifiasm papers when using this tool:
 > Cheng, H., Concepcion, G.T., Feng, X., Zhang, H., Li H. (2021)
